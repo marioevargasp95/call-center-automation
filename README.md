@@ -130,7 +130,6 @@ Se envían **dos correos independientes** al finalizar la ejecución:
 | Resumen HTML | `EMAIL_DESTINO` | Tablas de validación por categoría + logo institucional |
 | Log de ejecución | `EMAIL_LOG` | Tiempos por paso adjunto como `.log` |
 
-![Envios correo](imagenes/Envios_correo.PNG)
 
 Si el pipeline **falla**, se envía a `EMAIL_LOG` un correo `[ALERTA]` con el traceback completo y el log parcial adjunto.
 
