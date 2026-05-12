@@ -1,6 +1,5 @@
 <div align="center">
 
-##<img src="imagenes/LogoOlivos_2.png" alt="Logo Los Olivos" width="180"/>
 
 # Proyecto automatización Contact Center — Los Olivos
 
@@ -18,7 +17,6 @@
 ---
 ## Video Instructivo
 
-[![Ver video Pipeline Retención Clientes](https://img.shields.io/badge/Google%20Drive-Ver%20Video-blue?logo=googledrive)](https://drive.google.com/file/d/1mWzBQb-fU5a4I5WwuYG2aTUHIt1R9Z_O/view?usp=sharing)
 
 ## Descripción
 
