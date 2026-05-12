@@ -138,39 +138,6 @@ Si el pipeline **falla**, se envía a `EMAIL_LOG` un correo `[ALERTA]` con el tr
 
 ![Log correo](imagenes/Log.png)
 
-### Paso anterior — Carga a Wolkvox
-
-**8a. Crear campaña** → `POST ?api=create_campaign&type_campaign=preview`
-
-```json
-{
-  "campaign_name": "UXS_Automatica_FEBRERO_2026",
-  "start_time": "080000",
-  "end_time": "180000",
-  "skill_id": "4111",
-  "enable_edition": "no"
-}
-```
-
-**8b. Cargar registros** → `POST ?api=add_record&type_campaign=preview&campaign_id={id}`
-
-Schema requerido por Wolkvox:
-```json
-{
-  "customer_name": "Nombre", "customer_last_name": "Apellido",
-  "id_type": "CC", "customer_id": "1234567890",
-  "age": "", "gender": "", "country": "COL",
-  "state": "", "city": "", "zone": "", "address": "",
-  "opt1": "Contrato", "opt2": "Entidad", "opt3": "Producto",
-  "opt4": "Plazo", "opt5": "UXS FEBRERO 2026",
-  "opt6": "", "opt7": "", "opt8": "", "opt9": "",
-  "opt10": "", "opt11": "", "opt12": "Celular",
-  "tel1": "3001234567", "tel2": "", "tel3": "", "tel4": "",
-  "tel5": "", "tel6": "", "tel7": "", "tel8": "", "tel9": "", "tel10": "",
-  "agent_id": ""
-}
-```
-
 ---
 
 ## Entidades Excluidas
