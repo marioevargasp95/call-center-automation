@@ -88,7 +88,7 @@ ENTIDADES_EXCLUIR = [
 # ── Normalización de contactos ────────────────────────────────────────────────
 GENERIC_THRESHOLD = 15
 GENERIC_DOMAINS   = {"losolivos.co", "losolivosbogota.co"}
-GENERIC_EXPLICIT  = {"olivosbogota@losolivos.co", "contacto@losolivosbogota.co"}
+GENERIC_EXPLICIT  = {"contacto@empresa.co", "info@empresa.co"}
 ROLE_PREFIXES     = {
     "info", "contacto", "ventas", "administracion", "admin", "gerencia",
     "soporte", "noreply", "no-reply", "atencion", "servicio", "confirmacion",
