@@ -140,10 +140,10 @@ Si el pipeline **falla**, se envía a `EMAIL_LOG` un correo `[ALERTA]` con el tr
 
 | Entidad |
 |---|
-| COMERCIALIZADORA DE SERVICIOS BASICOS SAS |
-| COOPERATIVA DE EMPLEADOS DE CAFAM |
-| FONDO DE EMPLEADOS DE DAVIVIENDA - FONDAVIVIENDA |
-| COOPERATIVA DE LOS PROFESIONALES COASMEDAS - COASMEDAS |
+| COMERCIALIZADORA DE xxxxxxxxxxxx |
+| COOPERATIVA xxxxxxxxxxxxxxxxxx |
+| FONDO DE xxxxxxxxxxxxxxxxxxxxxxxxxx |
+| COOPERATIVA xxxxxxxxxxxxxxxxxxxxxxx |
 
 ---
 
