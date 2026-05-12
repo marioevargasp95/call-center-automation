@@ -1,0 +1,38 @@
+# Credenciales y datos sensibles
+*.json
+*.env
+*.env.*
+
+# Datos de salida
+base_final.csv
+contratos.xlsx
+gerencia.xlsx
+
+# Historial de CSVs generados
+historico/
+
+# Logs
+logs/
+
+# Archivos de prueba y desarrollo interno
+testeo_inicial/
+archivo/
+
+# Videos (almacenados en Google Drive)
+*.mp4
+*.avi
+*.mkv
+
+# Notebooks (exploración y desarrollo interno)
+*.ipynb
+
+# Instrucciones internas de desarrollo
+CLAUDE.md
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
