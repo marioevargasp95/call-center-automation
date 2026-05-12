@@ -133,7 +133,6 @@ Se envían **dos correos independientes** al finalizar la ejecución:
 
 Si el pipeline **falla**, se envía a `EMAIL_LOG` un correo `[ALERTA]` con el traceback completo y el log parcial adjunto.
 
-![Log correo](imagenes/Log.png)
 
 ---
 
