@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="imagenes/LogoOlivos_2.png" alt="Logo Los Olivos" width="180"/>
+##<img src="imagenes/LogoOlivos_2.png" alt="Logo Los Olivos" width="180"/>
 
 # Proyecto automatización Contact Center — Los Olivos
 
