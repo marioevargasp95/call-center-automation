@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Proyecto automatización Contact Center — Los Olivos
+# Proyecto automatización Contact Center — Empresa XXXX
 
 ![Python](https://img.shields.io/badge/Python-3.x-1a6b8a?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-DataFrame-61CE70?logo=pandas&logoColor=white)
@@ -9,7 +9,7 @@
 ![Gmail](https://img.shields.io/badge/SMTP-Gmail-1a6b8a?logo=gmail&logoColor=white)
 ![Estado](https://img.shields.io/badge/Estado-Producción-61CE70?logoColor=white)
 
-**Área:** Dirección de Tecnología | Dirección de Analítica — Los Olivos
+**Área:** Dirección de Analítica — 
 **Plataforma de marcación:** Wolkvox | **Lenguaje:** Python 3.x | **Actualización:** Marzo 2026
 
 </div>
@@ -213,7 +213,7 @@ Call_center_automatisation/
 ├── .env.example              # Referencia de variables de entorno
 ├── .gitignore
 ├── imagenes/                 # Imágenes del proyecto
-│   ├── LogoOlivos_2.png      # Logo para correo HTML
+│   ├── Logoempresa_2.png      # Logo para correo HTML
 │   ├── Envios_correo.PNG     # Captura correo de resumen
 │   └── Log.png               # Captura correo de alerta/log
 ├── historico/                # CSVs base_final por ejecución (gitignored)
